@@ -31,3 +31,13 @@
  > 🟣 Colaboração com o GITHUB 🟣
 
 ---
+
+ git remote add origin | git push | git clone
+
+  1. ```git remote add origin "nome da branch que quer enviar"``` : usado para conectar o projeto ```Local``` com o repositório do ```GITHUB```. Você aponta a ```URL``` do repositório do GITHUB;
+  2. ```git push``` : comando para enviar o projeto para o repositório remoto do github;
+  3. ```git clone``` : pegar o repositório do GitHube baixar na sua máquina. Você aponta a ```URL``` do projeto no GitHub que quer baixar;
+
+  ---
+
+  ```Espero que ajude em seus estudos também se ouver algo a ser modificado, me mande um pull request, caso ainda não saiba como fazer isso entre em contato comigo pelo seguinte email, gabrielestudie2@gmail.com```
