@@ -16,7 +16,7 @@
 
 ---
 
-(![2. Imagem descritiva e visual de Primeiros comando em Git](img/Primeiros_comandos-Git.png))
+![2. Imagem descritiva e visual de Primeiros comando em Git](img/Primeiros_comandos-Git.png)
 
 ---
 
@@ -32,7 +32,7 @@
 
 ---
 
-(![2. Imagem descritiva e visual de Gerenciamento de Versões](img/Gerenciamento_de_vercoes.png))
+![2. Imagem descritiva e visual de Gerenciamento de Versões](img/Gerenciamento_de_vercoes.png)
 
 ---
 
@@ -48,7 +48,7 @@
 
   ---
 
-(![3. Imagem descritiva e visual de colaboração com o GitHub](img\Colaboracao_com_o_github.png))
+![3. Imagem descritiva e visual de colaboração com o GitHub](img/Colaboracao_com_o_github.png)
 
   ---
 
