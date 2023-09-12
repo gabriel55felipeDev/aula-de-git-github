@@ -52,4 +52,4 @@
 
   ---
 
-  ```Espero que ajude em seus estudos também se ouver algo a ser modificado, me mande um pull request, caso ainda não saiba como fazer isso entre em contato comigo pelo seguinte email, gabrielestudie2@gmail.com```
+  ```Espero que ajude em seus estudos também se houver algo a ser modificado, me mande um pull request, caso ainda não saiba como fazer isso entre em contato comigo pelo seguinte email, gabrielestudie2@gmail.com```
