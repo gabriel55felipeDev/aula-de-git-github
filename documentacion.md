@@ -16,6 +16,10 @@
 
 ---
 
+(![2. Imagem descritiva e visual de Primeiros comando em Git](img/Primeiros_comandos-Git.png))
+
+---
+
  > 🟠 Gerenciamento de Versões 🟠
 
 ---
@@ -28,6 +32,10 @@
 
 ---
 
+(![2. Imagem descritiva e visual de Gerenciamento de Versões](img/Gerenciamento_de_vercoes.png))
+
+---
+
  > 🟣 Colaboração com o GITHUB 🟣
 
 ---
@@ -37,6 +45,10 @@
   1. ```git remote add origin "nome da branch que quer enviar"``` : usado para conectar o projeto ```Local``` com o repositório do ```GITHUB```. Você aponta a ```URL``` do repositório do GITHUB;
   2. ```git push``` : comando para enviar o projeto para o repositório remoto do github;
   3. ```git clone``` : pegar o repositório do GitHube baixar na sua máquina. Você aponta a ```URL``` do projeto no GitHub que quer baixar;
+
+  ---
+
+(![3. Imagem descritiva e visual de colaboração com o GitHub](img\Colaboracao_com_o_github.png))
 
   ---
 
